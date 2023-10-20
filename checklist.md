@@ -13,7 +13,7 @@ I have ensured that:
 
 ### Website
 - [ ] I addressed my research question [according to my assignment brief](https://navigatingthedigitalworld.com/docs/cs220au)
-- [ ] I have provided a URL to my website in my repository's sidebar
+- [x] I have provided a URL to my website in my repository's sidebar
 
 ### Self- and peer-assessment
 In the `assessment.md` file:
