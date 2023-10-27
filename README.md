@@ -26,6 +26,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 2. find readings revolving around my topic
 
 ## Log
+- 2023-10-27 homework: creation of a private new file on GitHub where I'll be writing my first draft of the assignment 
+- 2023-10-22 homework: research for my assignment  
 - 2023-10-20 class: setting up of GitHub account and repositories
 - 2023-10-16 homework: watched 3rd video + notes
 - 2023-10-13 introduction class: videos and discussions around "Digital Identities" (eg visitor and residence method)
