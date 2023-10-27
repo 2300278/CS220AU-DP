@@ -22,11 +22,13 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. find the question of my essay
+1. find the question of my essay (data, ethics, cours L1 Yvette??)
 2. find readings revolving around my topic
+3. read about existential risks on the class website
 
 ## Log
-- 2023-10-27 homework: creation of a private new file on GitHub where I'll be writing my first draft of the assignment 
+- 2023-10-28 homework: 
+- 2023-10-27 homework: creation of a private new file on GitHub where I'll be writing my first draft
 - 2023-10-22 homework: research for my assignment  
 - 2023-10-20 class: setting up of GitHub account and repositories
 - 2023-10-16 homework: watched 3rd video + notes
