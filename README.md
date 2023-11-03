@@ -27,7 +27,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 3. read about existential risks on the class website
 
 ## Log
-- 2023-11-03 homework: analysing and digging up information on existential risks and genome testing business, refining the direction of my essay
+- 2023-11-03 homework: beginning of literature review, analysing and digging up information on existential risks and genome testing business, refining the direction of my essay
 - 2023-10-28 homework: gathering ideas for the essay
 - 2023-10-27 homework: creation of a private new file on GitHub where I'll be writing my first draft
 - 2023-10-22 homework: research for my assignment  
