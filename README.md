@@ -22,11 +22,14 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. find the question of my essay (data, ethics, cours L1 Yvette??)
+1. find the precise question of my essay (data, ethics, cours L1 Yvette??)
 2. find readings revolving around my topic
 3. read about existential risks on the class website
+4. organise my ideas
+5. be done with the presentation powerpoint
 
 ## Log
+- 2023-11-08 homework: selecting and organising ideas for the essay, preparation of the presentation for Friday (powerpoint)
 - 2023-11-03 homework: beginning of literature review, analysing and digging up information on existential risks and genome testing business, refining the direction of my essay
 - 2023-10-28 homework: gathering ideas for the essay
 - 2023-10-27 homework: creation of a private new file on GitHub where I'll be writing my first draft
