@@ -25,7 +25,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 1. find back cours L1 Yvette because might be relevant to use
 2. find readings revolving around my topic
 3. develop my ideas and construct them properly
-4. find examples
+4. find supporting examples
 
 
 ## Log
