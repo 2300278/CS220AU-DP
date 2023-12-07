@@ -12,7 +12,7 @@ I have ensured that:
 - [x] my repository is named 'CS220AU-DP'
 
 ### Website
-- [ ] I addressed my research question [according to my assignment brief](https://navigatingthedigitalworld.com/docs/cs220au)
+- [x] I addressed my research question [according to my assignment brief](https://navigatingthedigitalworld.com/docs/cs220au)
 - [x] I have provided a URL to my website in my repository's sidebar
 
 ### Self- and peer-assessment
