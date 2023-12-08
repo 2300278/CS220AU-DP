@@ -29,6 +29,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 
 ## Log
+- 2023-12-08 homework: progress made on my essay plan and beginning of writing (introduction and first paragraphs)
 - 2023-12-01 homework: reorganisation of a few ideas, finding relevant titles and keywords
 - 2023-11-21/22/23 homework: organisation in progress of my essay plan/sections
 - 2023-11-13 homework: after some digging up of information on the topic, shift for a broader essay question: from genetic data to medical data in general
