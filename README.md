@@ -22,10 +22,10 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. find back cours L1 Yvette because might be relevant to use
-2. find readings revolving around my topic
-3. develop my ideas and construct them properly
-4. find supporting examples
+1. find relevant readings revolving supporting my arguments (identified and potential risks + actual legal frameworks and possible mitigation strategies)
+2. develop my arguments and find proper examples (that happened already, eg 23andMe case)
+3. prepare the portfolio overview
+4. 
 
 
 ## Log
