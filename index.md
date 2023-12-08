@@ -10,7 +10,7 @@ In our modern digital age, the use of our medical data, a crucial facet of our d
 
 ## As of today, technology is intrinsically linked to the medical field
 ### Technologies are more and more widely integrated to the process of medical data:
-Medical data landscape has seen formidable change as a result of technological breakthroughs, which have led to numerous positive developments. The accessibility of healthcare data has been significantly transformed by the widespread use of Electronic Health Records and, more generally, by the digitalisation of medical information. Important data can now be retrieved faster and effortlessly thanks to this evolution, which is of great value in emergencies. Furthermore, a significant shift has taken place, as patients are now actively involved in the data collection process via genetic testing kits or healthcare applications, for example.
+ADD SUPPORTING LITERATURE => Medical data landscape has seen formidable change as a result of technological breakthroughs, which have led to numerous positive developments. The accessibility of healthcare data has been significantly transformed by the widespread use of Electronic Health Records and, more generally, by the digitalisation of medical information. Important data can now be retrieved faster and effortlessly thanks to this evolution, which is of great value in emergencies. Furthermore, a significant shift has taken place, as patients are now actively involved in the data collection process via genetic testing kits or healthcare applications, for example.
 Technology integration not only renders information more easily accessible but also makes data sharing easier. Interconnected systems have enabled the swift exchange of medical history records; the pooled data is a priceless resource for studying human genomes, improving therapeutic approaches, and making discoveries that contribute to public health development.
 All of this combined with Artificial Intelligence (AI) and machine learning played a pivotal role in leveraging medical data. It has indeed proven effective in improving healthcare outcomes, mostly by unlocking new research possibilities and finding successful applications in predictive analytics and disease surveillance: scientists can efficiently analyse massive datasets, identify patterns, and make data-driven decisions.
 To put it simply, technology has started being integrated into the medical field to the point that no coming back is now possible, as they would not be able to make further progress without.
@@ -21,7 +21,7 @@ TO DVP => Currently, we know of privacy challenges associated with the collectio
 
 ## If, at first glance, this may seem to be a positive development, it raises a number of existential risks 
 ### As technologies are playing a more important role in the medical world, more people are trying to draw attention on global security threats they could bring:
-Hacking and privacy breaches
+TO DVP => Hacking and privacy breaches
 Risks of cyberattacks on healthcare systems + potential consequences for individuals and society
 Very limited law protection and institutional vulnerabilities
 Extreme possibilities (tho we can already see some example in China): surveillance and government overreach
@@ -29,7 +29,7 @@ EG of data breaches and their impact on trust in healthcare systems or compariso
 
 
 ### And the misuse of this data, even if hypothetical, is cause for concern even on an individual’s scale:
-Potential misuse of medical data for discriminatory purposes, such as denial of insurance or employment.
+TO DVP => Potential misuse of medical data for discriminatory purposes, such as denial of insurance or employment.
 = Data profiling and discrimination
 What could eg happen? Blackmailing, identity theft and deepfakes
 Dark side of data monetization + risk of profit-driven practices at the expense of individual well-being => Data sharing, manipulation, resale and monetization EXPLAIN how it is actually valuable for pharmaceutical or insurance companies for example
