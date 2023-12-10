@@ -21,12 +21,16 @@ While our understanding of the sensitivity of our data and the implications of t
 
 ## 2.	So far positive improvements raising (gradual?) threats
 ### Hypothetical data misuse on an individual’s scale
-Potential misuse of medical data for discriminatory purposes, such as denial of insurance or employment.
-Hacking and privacy breaches: Cybercriminals target individuals' sensitive data stored in various digital platforms such as personally identifiable information (PII) and health records. The breach of such personal data can lead to identity theft, financial fraud, and unauthorized access to sensitive accounts, jeopardizing the affected individuals' well-being and security.
+Despite its proven benefits, pressing concerns about technology implementation in the medical field have grown over the years. First of all, cybercriminals often target individuals' sensitive data stored in digital platforms, as it contains highly personal information as well as patient histories, diagnoses, and treatments. This can not only lead to identity theft and healthcare and financial fraud but also impact individual well-being since attackers can use the stolen information to impersonate individuals, open fraudulent accounts, or access healthcare services upon victims’ accounts (and this would compromise both the healthcare systems’ integrity and the patient’s care).
 
-= Data profiling and discrimination
-What could eg happen? Blackmailing, identity theft and deepfakes
-Dark side of data monetization + risk of profit-driven practices at the expense of individual well-being => Data sharing, manipulation, resale and monetization EXPLAIN how it is actually valuable for pharmaceutical or insurance companies for example
+There is also a potential for discriminatory practices, with stolen data serving profiling purposes and consequently creating a tool for the denial of insurance or employment opportunities. As a matter of fact, in the realm of insurance, the discriminatory use of medical data could be translated into individuals being denied coverage or facing higher premiums based on their perceived health risks (WORSE COMPARED TO WHAT ALREADY EXISTS TODAY?), reinforcing inequalities. Similarly, employers provided with detailed medical profiles might engage in discriminatory hiring practices: candidates could be prejudiced based on their health, violating the very fundamental principles of fairness and equal opportunity. On top of that, people could also get discriminated in everyday’s situations, as, for example, priority care could be given to people who would meet certain criteria before others.
+
+Besides these theoretical issues, the compromised data could bring direct threats such as blackmailing, when an ill-intentioned person exploits the sensitive information to coerce someone into compliance with their demands. It could even be brought to imagination that, with today’s impressive development of AI, convincing deepfakes could be created. All of these possibilities would put at stake people’s integrity and dignity, menacing their personal and professional lives and, generally speaking, their public image.
+
+Ultimately, another layer of risk could rest upon people: data monetisation. Indeed, data represents a powerful tool in capitalistic and profit-driven settings, and some may be tempted to place financial gains over people's well-being. Pharmaceutical and insurance companies, for example, find great value in its acquisition and resale, since it is perceived as a mean of trade and even sometimes as a leverage: indeed, information-based power asymmetry gives an edge to those who possess the data.
+
+Finally, it could be pointed out that one of the challenges we face today lies in finding the right balance between the moral and necessary use of people's medical data while recognising the possibility of its unethical and illegal misuse.
+
 
 
 ### Global security threats 
