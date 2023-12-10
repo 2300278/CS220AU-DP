@@ -68,9 +68,7 @@ In brief, these security mechanisms ensure the integrity of healthcare informati
 
 
 ## Conclusion
-TO DVP => Balancing Innovation and Security:
-Dual nature of medical data utilization, balancing the potential for innovation with the need for security.
-Importance of ethical considerations, regulatory frameworks, and technological safeguards in mitigating risks.
+In this age of technology, our medical data are in part defining our digital identity, which inevitably raises crucial questions about privacy and security. Technological advances brought to the medical field and also fuelled by the health data shared with our healthcare providers or that we provide on our own, not only make care more accessible but also more effective, but they also come with growing dangers. This dual nature of medical data use is a reminder that balancing the potential for innovation with the need for security is a critical challenge for today as for tomorrow. As we have stated what is the common understanding of digital identity linked to the medical field today, we have then highlighted the risks, from a micro to a macro level, stemming from the increasing integration of technology, to finally have an overlook of how we could prevent ourselves best from these existential menaces. Through continuous reflection, there is no doubt we will be able to keep navigating the digital health landscape safely.
 
 
 ## Recommendations
