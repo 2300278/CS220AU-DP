@@ -72,7 +72,7 @@ In this age of technology, our medical data are in part defining our digital ide
 
 
 ## Recommendations
-
+After analysing the current threats resting upon us, I could only advise people to always try to stay in a constant state of learning and awareness when it comes to how we use and with whom we share our data, as well as embracing a proactive stance in understanding technology development, uses and implications. Such commitment will for sure empower individuals and lead them to make informed decisions but also keep them from fearing what is nowadays a powerful tool.
 
 ## Credits
 
