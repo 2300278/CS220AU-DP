@@ -78,4 +78,4 @@ After analysing the current threats resting upon us, I could only advise people 
 
 
 ## References
-[^1] Rumbold, John, and Barbara K. Pierscionek. “What Are Data? A Categorization of the Data Sensitivity Spectrum.” Big Data Research 12 (July 1, 2018): 49–59. https://doi.org/10.1016/j.bdr.2017.11.001. 
+[^1]: Rumbold, John, and Barbara K. Pierscionek. “What Are Data? A Categorization of the Data Sensitivity Spectrum.” Big Data Research 12 (July 1, 2018): 49–59. https://doi.org/10.1016/j.bdr.2017.11.001. 
