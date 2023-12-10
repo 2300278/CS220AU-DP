@@ -19,7 +19,7 @@ To put it simply, technology has started being integrated into the medical field
 While our understanding of the sensitivity of our data and the implications of technology has grown in the recent years, our actual awareness of the privacy issues tied to the collection and use of medical data remains vague. Questions of ethics and moral dilemmas have arisen, among them issues around consent, data ownership, and the commodification of health information. Doubts have also been expressed about potential biases in algorithms used for patient treatment. Such fears have grown more and more prevalent as technology becomes ever more integrated into the healthcare sector, encouraging a critical examination of the dimensions built into these automated decision-making systems and piling another layer of complexity to the ethical landscape. And since governments and authorities have come to understand how important it is to safeguard medical data, the focus has turned toward these challenges. However, despite the increased interest taken in the problem, some problems stay obscure, making it difficult to come to global agreements on both the ethical and privacy risks of using medical data: this absence of a universal framework highlights the uncertainties that persist when navigating these issues, increasingly alerting  citizens. In the end, the actual lack of clear definition around what technology in healthcare implies brings to the spotlight the constant need for a more in-depth reflection on the subject balanced by a nuanced and critical look, not to mention the need for an effort to bridge the gap between awareness and concrete solutions.
 
 
-## If, at first glance, this may seem to be a positive development, it raises a number of existential risks 
+## 2.	So far positive improvements raising (gradual?) threats
 ### Hypothetical data misuse on an individual’s scale
 Potential misuse of medical data for discriminatory purposes, such as denial of insurance or employment.
 Hacking and privacy breaches: Cybercriminals target individuals' sensitive data stored in various digital platforms such as personally identifiable information (PII) and health records. The breach of such personal data can lead to identity theft, financial fraud, and unauthorized access to sensitive accounts, jeopardizing the affected individuals' well-being and security.
@@ -33,7 +33,7 @@ Dark side of data monetization + risk of profit-driven practices at the expense 
 word document for now
 
 
-## Mitigation strategies: what can we on our level to prevent ourselves from “the worst”?
+## Mitigation strategies: how to prevent ourselves from “the worst”?
 ### Regulatory Frameworks:
 RESEARCH => Potential regulatory measures to safeguard medical data + new entities such as HIPAA (Health Insurance Portability and Accountability Act) in protecting patient information.
 
