@@ -59,7 +59,12 @@ In a nutshell, these frameworks, although likely flawed and refinable, seek to m
 
 
 ### Technological Safeguards:
-RESEARCH => Technological/engineering improvements: encryption, secure data storage, and other technological measures to protect medical data // role of blockchain and decentralized technologies in enhancing data security.
+Complementing regulatory frameworks, technological safeguards emerge as the last crucial line of defence we could evoke in this essay against the dangers previously stated. 
+
+Prominent measures like encryption and secure data storage via blockchain stand at the forefront of efforts to reinforce the digital legal frameworks already existing. Encryption, the process of converting readable data into an unreadable form thanks to a mathematical algorithm, serves as a layer of security to transmit and store information, as encrypted data is essentially meaningless without the decryption key. Many regulatory frameworks and data protection laws, as those we have seen already, mandate its use. As for blockchain, a shared database using cryptography to safely record and store information through the usual mean of a ledger, its decentralised nature of blockchain is the key to data security as it disperses information, and its transparent and immutability nature (meaning it cannot be altered nor deleted) make it inherently resistant to unwanted tampering. Other safeguards do exist, primarily in the form of Secure Communication Protocols, like the Transport Layer Security (TLS), a widely adopted protocol designed to ensure the confidentiality and security of data on the Internet; all of them play a pivotal role in securing the transmission of sensitive information.
+
+In brief, these security mechanisms ensure the integrity of healthcare information -and information in general, as it travels through interconnected networks, supplementing existing legal safeguards. Over time, these encryption systems will continue to develop in response to new risks, hence the growing demand for cybersecurity specialists over the last few years.
+
 
 
 ## Conclusion
