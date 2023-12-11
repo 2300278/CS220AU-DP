@@ -83,7 +83,7 @@ After analysing the current threats resting upon us, I could only advise people 
 
 ## Credits
 Header image originates from Pixabay and was published on the 23rd of March 2023 under the Creative Commons CC0 1.0 Universal Public Domain Dedication license
-https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003395_1280.jpg
+https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003395_1280.jpg.
 
 ## References
 [^1]: Beyan, Oya, Ananya Choudhury, Johan Van Soest, Oliver Kohlbacher, Lukas Zimmermann, Holger Stenzhorn, Md. Rezaul Karim, et al. “Distributed Analytics on Sensitive Medical Data: The Personal Health Train.” Data Intelligence 2, no. 1–2 (January 1, 2020): 96–107. https://doi.org/10.1162/dint_a_00032.
