@@ -10,7 +10,7 @@
 * Encryption
 
 <p align="center">
-  <img width="1020" height="600" src="security-2688911-640-6b54c2.jpg">
+  <img width="1020" height="500" src="hacker-8003395_1280.jpg">
 </p>
 
 
