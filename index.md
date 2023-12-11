@@ -82,7 +82,7 @@ In this age of technology, our medical data are in part defining our digital ide
 After analysing the current threats resting upon us, I could only advise people to always try to stay in a constant state of learning and awareness when it comes to how we use and with whom we share our data, as well as embracing a proactive stance in understanding technology development, uses and implications. Such commitment will for sure empower individuals and lead them to make informed decisions but also keep them from fearing what is nowadays a powerful tool.
 
 ## Credits
-
+Header image originates from Pixabay and was published prior to July 2017 under the Creative Commons CC0 1.0 Universal Public Domain Dedication license [https://web.archive.org/web/20161229043156/https://pixabay.com/en/service/terms/.](https://picryl.com/media/security-2688911-640-6b54c2).
 
 ## References
 [^1]: Beyan, Oya, Ananya Choudhury, Johan Van Soest, Oliver Kohlbacher, Lukas Zimmermann, Holger Stenzhorn, Md. Rezaul Karim, et al. “Distributed Analytics on Sensitive Medical Data: The Personal Health Train.” Data Intelligence 2, no. 1–2 (January 1, 2020): 96–107. https://doi.org/10.1162/dint_a_00032.
