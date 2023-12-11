@@ -22,13 +22,11 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. find relevant readings revolving supporting my arguments (identified and potential risks + actual legal frameworks and possible mitigation strategies)
-2. develop my arguments and find proper examples (that happened already, eg 23andMe case)
-3. prepare the portfolio overview
-4. 
+1. Complete peer-assessment 
 
 
 ## Log
+- 2023-12-10/11 homework: finished essay, added bibliography, proofread, completed portfolio overview and self-assessment 
 - 2023-12-08 homework: progress made on my essay plan and beginning of writing (introduction and first paragraphs)
 - 2023-12-01 homework: reorganisation of a few ideas, finding relevant titles and keywords
 - 2023-11-21/22/23 homework: organisation in progress of my essay plan/sections
