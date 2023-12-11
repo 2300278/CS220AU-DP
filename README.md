@@ -1,12 +1,20 @@
 # CS220AU Digital Portfolio Template
 
 ## Overview
-The goal of this GitHub repository is to serves as a template for the [CS220AU](https://navigatingthedigitalworld.com/docs/cs220au) assignment. It demonstrates minimalistic approaches to:
 
-- project management using this `README.md` file, organized under the Overview, Tasks, and Log headings
-- web hosting through [GitHub Pages](https://pages.github.com/)
-- web design with [Markdown language](https://guides.github.com/features/mastering-markdown/)
-- self- and peer-assessment via the `assessment.md` and `checklist.md` files
+**Introduction:** in this essay I have discussed the considerations concerning the security of our medical data and its present and hypothetical use, before dwelling on the means available to us to protect ourselves.
+
+I have developed my argument as follows:
+1. first I evoked the state of technology in today’s medical field,
+2. then I nuanced the fact that the positive outcomes of growing use of technology do not eliminate threats on micro and macro levels, 
+3. finally I finished by pointing out the actual mitigation strategies (calling for improvement) 
+
+**1. Technology and Medicine:** in this section, I examined how technology is intrinsically linked to medical as of today, since it is more and more widely integrated to the process of medical data. I have also lingered a bit on the better understanding yet still hazy of technologies’ implications.
+
+**2. So far positive improvements raising threats:** in this section, I've observed that despite the positive effects of the integration of technology in the medical sphere, the digitalisation of our data has brought with it risks at the level of the individual citizen, as well as existential risks.
+
+**3. Mitigation strategies: how to prevent ourselves from “the worst”?:** in this section, I have explored the various strategies that already exist to safeguard against established risks, whether through a defined legal framework or specific encoding techniques.
+
 
 The URL for the website can be located in the sidebar, under the 'About' section. The homepage content is sourced from the `index.md` file.
 
