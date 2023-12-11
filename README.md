@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Introduction:** in this essay I have discussed the considerations concerning the security of our medical data and its present and hypothetical use, before dwelling on the means available to us to protect ourselves.
+In this essay I have discussed the considerations concerning the security of our medical data and its present and hypothetical use, before dwelling on the means available to us to protect ourselves.
 
 I have developed my argument as follows:
 1. first I evoked the state of technology in today’s medical field,
