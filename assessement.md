@@ -44,6 +44,8 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 | 2.2       |     |     |     |     |  o  |
 | 3.1       |     |     |     |  o  |     |
 
+Throughout the semester, I worked quite regularly on this essay, as it was important to have made progress on it so that I could bring my questions to class. I read a number of academic papers and deepened my understanding of my subject, namely the link between our medical data and the existential risks associated with it. As for the technical aspects and the website itself, I tried my best to make it aesthetically pleasing, despite my difficulties in dealing with the "technology". I immediately adopted the use of GitHub to write my essay in order to get used to its conventions and not have too many difficulties with the final layout. As for the essay itself, I tried my best to write in academic style and to present my arguments as scientifically as possible. In the end, I'm happy with my performance because I was able to manage my time fairly well ( by finishing my work around mid-December) and because I worked as part of a team with my classmates to improve the quality of my work.
+
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
 
