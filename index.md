@@ -1,7 +1,13 @@
 # What are the potential implications of widespread digitalisation of medical data?
 
 ## Keywords
-Digital ethics
+*Information Ethics
+*Data Science
+*Health Data
+*E-Health
+*HIPAA
+*GDPR
+*Encryption
 
 
 ## Introduction
