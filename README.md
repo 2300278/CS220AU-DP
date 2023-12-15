@@ -3,10 +3,8 @@
 ## Portfolio Overview and Items
 My portfolio includes the following components:
 
-1.**this portfolio overview**: I provide here a succinct description of what can be found in my portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
-
+1. **this portfolio overview**: I provide here a succinct description of what can be found in my portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
 2. **my website**: hosting my essay, on which I have first discussed the considerations about the security of our medical data and its present and hypothetical use. Then I have dwelt on the means available to us to protect ourselves
-
 3. **the self- and peer-assessment**: through the `assessment.md` file
 
 
