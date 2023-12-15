@@ -9,10 +9,11 @@ My portfolio includes the following components:
 
 
 ## Tasks
-1. Complete peer-assessment and assess Eva's essay (2300181)
+1. Receiive peer-assessment
 
 
 ## Log
+- 2023-12-15 homework: provided student 2300181 with my review
 - 2023-12-15 class: overview with classmates and teacher of the portfolio in itself, necessary adjustments made
 - 2023-12-10/11 homework: finished essay, added bibliography, proofread, completed portfolio overview and self-assessment 
 - 2023-12-08 homework: progress made on my essay plan and beginning of writing (introduction and first paragraphs)
