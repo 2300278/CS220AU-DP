@@ -9,7 +9,7 @@ My portfolio includes the following components:
 
 
 ## Tasks
-1. Receiive peer-assessment
+1. Receive peer-assessment
 
 
 ## Log
