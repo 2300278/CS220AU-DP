@@ -8,9 +8,9 @@
 * HIPAA
 * GDPR
 * Encryption
-![hacker](assets/img/hacker-8003395_1280.jpg)
+
 <p align="center">
-  <img width="1020" height="500" src=>
+  <img width="1020" height="500" src=![hacker](assets/img/hacker-8003395_1280.jpg)>
 </p>
 
 
