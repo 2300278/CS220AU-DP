@@ -10,7 +10,7 @@ My portfolio includes the following components:
 
 ## Tasks
 1. Send final version to teacher
-2. Submit the checklist on FASER
+2. Submit checklist on FASER
 
 
 ## Log
