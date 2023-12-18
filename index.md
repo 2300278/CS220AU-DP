@@ -21,7 +21,7 @@ To put it simply, technology has started being integrated into the medical field
 ### Current understanding of technologies’ implications
 While our understanding of the sensitivity of our data and the implications of technology has grown in the recent years, our actual awareness of the privacy issues tied to the collection and use of medical data remains vague. Questions of ethics and moral dilemmas have arisen, among them issues around consent, data ownership, and the commodification of health information. Doubts have also been expressed about potential biases in algorithms used for patient treatment[^2]. Such fears have grown more and more prevalent as technology becomes ever more integrated into the healthcare sector, encouraging a critical examination of the dimensions built into these automated decision-making systems and piling another layer of complexity to the ethical landscape[^5]. And since governments and authorities have come to understand how important it is to safeguard medical data, the focus has turned toward these challenges. However, despite the increased interest taken in the problem, some problems remain obscure, making it difficult to come to universal agreements on both the ethical and privacy risks of using medical data: actually, each country or entity, such as the European Union, produces its own legislations, yet there are still many shortcomings in the laws regulating the handling of healthcare data, implying the need for a constant and deeper reflection on the subject, balanced by a nuanced and critical look, not to mention the need for an effort to bridge the gap between awareness and concrete solutions.
 
-
+![Medicine and technology](assets/img/Threats)
 ## Positive improvements raising threats
 ### Hypothetical data misuse on an individual’s scale
 Despite its proven benefits, pressing concerns about technology implementation in the medical field have grown over the years. First of all, cybercriminals often target individuals' sensitive data stored in digital platforms, as it contains highly personal information as well as patient histories, diagnoses, and treatments. This can not only lead to identity theft and healthcare and financial fraud but also impact individual well-being since attackers can use the stolen information to impersonate individuals, open fraudulent accounts, or access healthcare services upon victims’ accounts (and this would compromise both the healthcare systems’ integrity and the patient’s care)[^5].
@@ -49,7 +49,7 @@ Finally, extreme possibilities are raising growing apprehension, recalling the d
 
 In the end, this piling up of technological advances and potential risks thus calls for a careful examination of safeguards, legal frameworks, and ethical considerations to prevent the manifestation of dystopian narratives in our contemporary reality.
 
-
+![Medicine and technology](assets/img/Hopes)
 ## Mitigation strategies: how to prevent ourselves from “the worst”?
 ### Regulatory Frameworks
 With the growing reliance on digitalisation, the need for robust legal regulations to protect our digital identity has become a necessity. To secure sensitive data from the numerous potential risks we have discussed until now, an extensive and comprehensive approach must be developed, first and foremost through the implementation of regulatory frameworks designed to set standards and enforce guidelines for it to be responsibly handled. 
