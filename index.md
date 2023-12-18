@@ -53,7 +53,7 @@ Finally, extreme possibilities are raising growing apprehension, recalling the d
 In the end, this piling up of technological advances and potential risks thus calls for a careful examination of safeguards, legal frameworks, and ethical considerations to prevent the manifestation of dystopian narratives in our contemporary reality.
 
 
-![Hopes](assets/img/Hopes)
+![Hopes](assets/img/hopes.jpg)
 
 
 ## Mitigation strategies: how to prevent ourselves from “the worst”?
