@@ -9,10 +9,12 @@ My portfolio includes the following components:
 
 
 ## Tasks
-1. Receive peer-assessment
+1. Send final version to teacher
+2. Submit the checklist on FASER
 
 
 ## Log
+- 2023-12-18 homework: received peer assessment from student 2300193 and completed changes to improve my work
 - 2023-12-15 homework: provided student 2300181 with my review
 - 2023-12-15 class: overview with classmates and teacher of the portfolio in itself, necessary adjustments made
 - 2023-12-10/11 homework: finished essay, added bibliography, proofread, completed portfolio overview and self-assessment 
