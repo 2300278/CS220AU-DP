@@ -77,10 +77,13 @@ After analysing the current threats resting upon us, I could only advise people 
 ## Credits
 Header image originates from Pixabay and was published on the 23rd of March 2023 under the Creative Commons CC0 1.0 Universal Public Domain Dedication license
 https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003395_1280.jpg.
+
 Image _Medicine and technology_ from Online Marketing and published on the 30th of July 2018
 https://unsplash.com/fr/photos/medecin-tenant-un-stethoscope-rouge-hIgeoQjS_iE 
+
 Image _Threats_ from Bernd 📷 Dittrich and published on the 18th of June 2021
 https://unsplash.com/fr/photos/texte-DT71hAJoIJM
+
 Image _Hope_ from Mark Fletcher-Brown and published on the 17th of February 2019
 https://unsplash.com/fr/photos/crayon-noir-sur-papier-dimprimante-blanc-nN5L5GXKFz8
   
