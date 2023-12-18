@@ -14,7 +14,7 @@ My portfolio includes the following components:
 
 
 ## Log
-- 2023-12-18 homework: received peer assessment from student 2300193 and completed changes to improve my work
+- 2023-12-18 homework: received peer assessment from student 2300193 and completed changes following this review (added images)
 - 2023-12-15 homework: provided student 2300181 with my review
 - 2023-12-15 class: overview with classmates and teacher of the portfolio in itself, necessary adjustments made
 - 2023-12-10/11 homework: finished essay, added bibliography, proofread, completed portfolio overview and self-assessment 
