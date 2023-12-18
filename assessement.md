@@ -57,4 +57,6 @@ Another student in my group provided feedback on my work as follows: <!-- move t
 | 2.2       |     |     |     |     |  o  |
 | 3.1       |     |     |     |     |  o  |
 
-Feedback given by: <!-- add student number and date -->
+Feedback given by: 2300193 on the 12-18-2023
+
+I find Noémie's work both insightful and very interesting. Despite its complexity, the subject she has chosen is very well explained in a clear and understandable way. Noémie has also found many good references and has integrated them well into her analysis. The only small thing that I think could be improved is the lack of colour or visuals that could help keep the reader's attention when reading her website. Apart from this detail, Noémie's plan is easy to follow and allows for a fluid reading of her work. I really like the fact that she has included a number of possible improvements towards the end of her analysis to end on a more positive note.
