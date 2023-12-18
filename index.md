@@ -9,7 +9,7 @@ Information Ethics, Data Science, Health Data, E-Health, HIPAA, GDPR, Encryption
 ## Introduction
 In our modern digital age, the use of our medical data, a crucial facet of our digital identity, raises profound questions about its implications. As people willingly -or not, divulge it, this kind of data sharing contributes to the formation of what can be considered one of our digital identities. By digital identity, we actually encompass all online data specific to a given individual, which roughly means online activities and behaviours, personal and financial information, credentials, and, obviously, medical and biometric data. Awareness of the risks associated with our digital footprint is vital in today's world, where technology is omnipresent. As we will see later on, the stakes are inherently high for we have no control over the impact of their exploitation, especially in an increasingly interconnected world such as ours. As we have said, this particular part of our digital identity which is our medical profile, gives rise to menaces, necessitating a comprehensive examination of the ethical, privacy, and more global security concerns entwined with its collection, use, and presumed misuse. In this essay, we will delve into this topic by looking first at the state of technology in the medical field and our current understanding of it. We will then look at the risks entailed, both those we know about and those we can only speculate about. Finally, we will discuss the means we can deploy to protect ourselves from these abuses.
 
-![medicine](assets/img/medicine and techno.jpg)
+![medicine](assets/img/medicine.jpg)
 
 ## Technology and Medicine
 ### Healthcare and the ever-growing use of technology
