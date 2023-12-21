@@ -1,7 +1,6 @@
 # What are the potential implications of widespread digitalisation of medical data?
 
-## Keywords
-Information Ethics, Data Science, Health Data, E-Health, HIPAA, GDPR, Encryption
+Keywords: information ethics, data science, health data, e-health, HIPAA, GDPR, encryption
 
 ![What are the risks we face?](assets/img/hacker-8003395_1280.jpg)
 
@@ -11,7 +10,7 @@ In our modern digital age, the use of our medical data, a crucial facet of our d
 
 ![Medicine and technology](assets/img/medicine.jpg)
 
-## Technology and Medicine
+## Technology and medicine
 ### Healthcare and the ever-growing use of technology
 Medical data landscape has seen formidable change as a result of technological breakthroughs, which have led to numerous positive developments. The accessibility of healthcare data has been significantly transformed by the widespread use of Electronic Health Records and, more generally, by the digitalisation of medical information. Important data can now be retrieved faster and effortlessly thanks to this evolution, which is of great value in emergencies. Furthermore, a significant shift has taken place, as patients are now actively involved in the data collection process via genetic testing kits or healthcare applications, for example.
 Technology integration not only renders information more easily accessible but also makes data sharing simpler. Interconnected systems have enabled the swift exchange of medical history records; the pooled data is a priceless resource for studying human genomes, improving therapeutic approaches, and making discoveries that contribute to public health development[^1].
@@ -57,7 +56,7 @@ In the end, this piling up of technological advances and potential risks thus ca
 
 
 ## Mitigation strategies: how to prevent ourselves from “the worst”?
-### Regulatory Frameworks
+### Regulatory frameworks
 With the growing reliance on digitalisation, the need for robust legal regulations to protect our digital identity has become a necessity. To secure sensitive data from the numerous potential risks we have discussed until now, an extensive and comprehensive approach must be developed, first and foremost through the implementation of regulatory frameworks designed to set standards and enforce guidelines for it to be responsibly handled. 
 
 When it comes to control mechanisms, some have already been deployed, especially in the US, such as the Health Insurance Portability and Accountability Act (HIPAA) signed in 1996, which brought national standards and a legal foundation for patient information’s confidentiality [^1], [^5]. The HIPAA Act has since then been supplemented by the Health Information Technology for Economic and Clinical Health (HITECH) Act, which encourages the adoption of electronic health records and expands the scope of privacy and security protection first stated. In addition, the Cybersecurity Information Sharing Act (CISA) of 2015 fosters collaboration between government and private entities to improve information sharing on cybersecurity threats, contributing to a more proactive and collaborative defence against the ever-changing array of threats. More generally, outside the American continent, the European Union's General Data Protection Regulation (GDPR) is a notable example of a regulatory framework developed to protect individuals to the fullest extent possible, based on our current awareness: extending beyond the healthcare sphere, it does not only set strict rules for data protection but also imposes significant sanctions in the event of non-compliance[^1], [^5]. The GDPR also focuses more on the rights of individuals and restates how consent to data processing is a core issue. As of today, many other various regulatory frameworks exist in order to strengthen the protection of medical data, relative to each country and their views on the matter[^9].
@@ -65,7 +64,7 @@ When it comes to control mechanisms, some have already been deployed, especially
 In a nutshell, these frameworks, although likely flawed and refinable, seek to mitigate risk and ensure the responsible handling of medical data on a worldwide scale; and while a strong foundation may have been built, it is important to remember that, like the constant development of technology, our laws must continue to adapt to the emerging threats.
 
 
-### Technological Safeguards
+### Technological safeguards
 Complementing regulatory frameworks, technological safeguards emerge as the last crucial line of defence we could evoke in this essay against the dangers previously stated. 
 
 Prominent measures like encryption and secure data storage via blockchain stand at the forefront of efforts to reinforce the digital legal frameworks already existing. Many regulatory frameworks and data protection laws, as those we have seen already, mandate their use[^10]. Encryption, the process of converting readable data into an unreadable form thanks to a mathematical algorithm, serves as a layer of security to transmit and store information, as encrypted data is essentially meaningless without the decryption key. As for blockchain, a shared database using cryptography to safely record and store information through the usual mean of a ledger, its decentralised nature of blockchain is the key to data security as it disperses information, and its transparent and immutability nature (meaning it cannot be altered nor deleted) make it inherently resistant to unwanted tampering[^6], [^10]. Other safeguards do exist, primarily in the form of Secure Communication Protocols, like the Transport Layer Security (TLS), a widely adopted protocol designed to ensure the confidentiality and security of data on the Internet; all of them play a pivotal role in securing the transmission of sensitive information[^9].
