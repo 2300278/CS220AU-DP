@@ -16,11 +16,11 @@ To refine my writing, as I am not a native English-speaker, I have used tools su
 
 
 ## Tasks
-1. Submit checklist on FASER
+- all done
 
 
 ## Log
-- 2023-12-21 homework: proceeded to last changes after receiving teacher's review
+- 2023-12-21 homework: proceeded to last changes after receiving teacher's review and uploaded the checklist on FASER
 - 2023-12-18 homework: received peer assessment from student 2300193 and completed changes following this review (added images)
 - 2023-12-15 homework: provided student 2300181 with my review
 - 2023-12-15 class: overview with classmates and teacher of the portfolio in itself, necessary adjustments made
