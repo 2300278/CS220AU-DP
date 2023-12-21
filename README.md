@@ -8,12 +8,17 @@ My portfolio includes the following components:
 3. **the self- and peer-assessment**: through the `assessment.md` file.
 
 
+
+## Disclaimer
+This website content's target audience is the academic community.
+
+
 ## Tasks
-1. Send final version to teacher
-2. Submit checklist on FASER
+1. Submit checklist on FASER
 
 
 ## Log
+- 2023-12-21 homework: proceeded to last changes after receiving teacher's review
 - 2023-12-18 homework: received peer assessment from student 2300193 and completed changes following this review (added images)
 - 2023-12-15 homework: provided student 2300181 with my review
 - 2023-12-15 class: overview with classmates and teacher of the portfolio in itself, necessary adjustments made
