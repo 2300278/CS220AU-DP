@@ -80,8 +80,7 @@ In this age of technology, our medical data are in part defining our digital ide
 After analysing the current threats resting upon us, I could only advise people to always try to stay in a constant state of learning and awareness when it comes to how we use and with whom we share our data, as well as embracing a proactive stance in understanding technology development, uses and implications. Such commitment will for sure empower individuals and lead them to make informed decisions but also keep them from fearing what is nowadays a powerful tool.
 
 ## Credits
-Header image originates from Pixabay and was published on the 23rd of March 2023 under the Creative Commons CC0 1.0 Universal Public Domain Dedication license
-https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003395_1280.jpg.
+Header image originates from [Pixabay](https://cdn.pixabay.com/photo/2023/05/18/23/22/hacker-8003395_1280.jpg) and was published on the 23rd of March 2023 under the Creative Commons CC0 1.0 Universal Public Domain Dedication license
 
 Image _Medicine and technology_ from Online Marketing and published on the 30th of July 2018
 https://unsplash.com/fr/photos/medecin-tenant-un-stethoscope-rouge-hIgeoQjS_iE 
