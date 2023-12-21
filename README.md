@@ -16,7 +16,7 @@ To refine my writing, as I am not a native English-speaker, I have used tools su
 
 
 ## Tasks
-- all done
+All done.
 
 
 ## Log
