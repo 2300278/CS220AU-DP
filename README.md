@@ -11,6 +11,7 @@ My portfolio includes the following components:
 
 ## Disclaimer
 This website content's target audience is the academic community.
+To refine my writing, as I am not a native English-speaker, I have used tools such as Quillbot and ChatGPT.
 
 
 ## Tasks
